@@ -1,45 +1,38 @@
-# 👨‍💻 ¡Hola! Soy [Tu Nombre]
+<!-- Banner oscuro -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e272e,100:485563&height=200&section=header&text=¡Hola,%20soy%20[Tu%20Nombre]!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
+</p>
 
-Soy un desarrollador autodidacta apasionado por la tecnología y los proyectos que resuelven problemas reales. En mi tiempo libre me gusta crear herramientas útiles, automatizar tareas y experimentar con nuevas tecnologías. Siempre estoy aprendiendo algo nuevo y compartiéndolo en código abierto.
+---
+
+## 🧑‍💻 Sobre mí
+
+Desarrollador apasionado por la tecnología, el código limpio y los proyectos que resuelven problemas reales. Me gusta automatizar procesos, mejorar flujos de trabajo y construir soluciones útiles desde cero.
 
 ---
 
 ## 🧩 Proyectos personales
 
 ### 📚 Sistema de préstamo de libros
-**PHP + MySQL + SweetAlert2**
-> Sistema para gestionar préstamos y devoluciones de libros con control de usuarios y notificaciones interactivas. Incluye CRUDs completos, validaciones con SweetAlert2 y reportes PDF.
+> **PHP + MySQL + SweetAlert2**  
+> Control de usuarios, préstamos y reportes. Interfaz intuitiva con validaciones interactivas.
 
 ### 🗃️ Gestor de archivos personales
-**Laravel + Vue.js**
-> Aplicación tipo Google Drive donde puedes subir, organizar y descargar tus archivos. Soporta roles de usuario, almacenamiento local/S3 y visualización previa de documentos.
+> **Laravel + Vue.js**  
+> Subida y organización de archivos, roles de usuario y soporte para almacenamiento local/S3.
 
 ### 🎓 Plataforma de cursos
-**HTML/CSS + JavaScript**
-> Plataforma educativa que simula el seguimiento de cursos, con avance por módulos, progreso en tiempo real y validación de exámenes.
+> **HTML/CSS + JavaScript**  
+> Simulación de cursos, módulos, tests y progreso.
 
-### 🛠️ Generador de contraseñas seguras
-**JavaScript (Vanilla)**
-> Herramienta web simple para crear contraseñas aleatorias según parámetros (números, mayúsculas, símbolos, longitud).
-
----
-
-## ⚙️ Stack que suelo usar
-
-- **Lenguajes**: PHP, JavaScript, Python
-- **Frameworks**: Laravel, Vue.js, Bootstrap
-- **Base de datos**: MySQL, SQLite
-- **Otras herramientas**: Git, VSCode, Postman, Figma
-- **Librerías útiles**: SweetAlert2, Select2, jQuery, Axios
+### 🔐 Generador de contraseñas
+> **Vanilla JS**  
+> Creador de contraseñas fuertes con parámetros personalizables.
 
 ---
 
-## 📬 Contacto
+## ⚙️ Tecnologías que uso
 
-- 🌐 Portafolio: [tusitio.com](https://tusitio.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 📧 Email: tunombre@email.com
-
----
-
-> “La mejor forma de aprender a programar es crear cosas que te gustaría usar.” 🚀
+- **Lenguajes:** PHP, JavaScript, Python
+- **Frameworks:** Laravel, Vue.js, Bootstrap
+- **Herramientas:** Git, Composer, npm, Postman, VSCod
