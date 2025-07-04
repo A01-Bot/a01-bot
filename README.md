@@ -5,34 +5,58 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-Desarrollador apasionado por la tecnología, el código limpio y los proyectos que resuelven problemas reales. Me gusta automatizar procesos, mejorar flujos de trabajo y construir soluciones útiles desde cero.
+Soy un desarrollador autodidacta con pasión por construir soluciones funcionales. Me gusta crear herramientas útiles para la vida real, escribir código limpio y aprender constantemente nuevas tecnologías.
 
 ---
 
 ## 🧩 Proyectos personales
 
-### 📚 Sistema de préstamo de libros
+### 📚 Sistema de Bibliotecas
 > **PHP + MySQL + SweetAlert2**  
-> Control de usuarios, préstamos y reportes. Interfaz intuitiva con validaciones interactivas.
+> Gestión de préstamos y devoluciones de libros. CRUD de usuarios y reportes PDF. Interfaz intuitiva con validaciones interactivas y alertas personalizadas.
 
-### 🗃️ Gestor de archivos personales
-> **Laravel + Vue.js**  
-> Subida y organización de archivos, roles de usuario y soporte para almacenamiento local/S3.
+### 📝 Blog personal
+> **Laravel + Bootstrap**  
+> Plataforma de publicaciones con panel de administración, autenticación, categorías, buscador y sistema de comentarios.
 
-### 🎓 Plataforma de cursos
-> **HTML/CSS + JavaScript**  
-> Simulación de cursos, módulos, tests y progreso.
+### 💼 Portafolio autogestionable
+> **PHP + MySQL + Admin Panel**  
+> Sitio web personal que permite subir y administrar proyectos dinámicamente desde un panel privado. Integra subida de imágenes y control de visibilidad.
 
 ### 🔐 Generador de contraseñas
-> **Vanilla JS**  
-> Creador de contraseñas fuertes con parámetros personalizables.
+> **JavaScript (Vanilla)**  
+> Herramienta web interactiva que genera contraseñas seguras con opciones personalizables (longitud, símbolos, números, mayúsculas).
 
 ---
 
 ## ⚙️ Tecnologías que uso
 
 - **Lenguajes:** PHP, JavaScript, Python
-- **Frameworks:** Laravel, Vue.js, Bootstrap
-- **Herramientas:** Git, Composer, npm, Postman, VSCod
+- **Frameworks:** Laravel, Bootstrap
+- **Herramientas:** Git, Composer, npm, VSCode, Postman
+- **UI & extras:** SweetAlert2, Select2, jQuery
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📬 Contacto
+
+- 🌐 [Portafolio](https://tusitio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 📧 Email: tunombre@email.com
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e272e,100:485563&height=100&section=footer" />
+</p>
