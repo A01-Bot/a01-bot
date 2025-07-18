@@ -33,19 +33,10 @@ Soy un desarrollador autodidacta con pasión por construir soluciones funcionale
 
 ## ⚙️ Tecnologías que uso
 
-- **Lenguajes:** PHP, JavaScript, Python
-- **Frameworks:** Laravel,Codeigniter Bootstrap
+- **Lenguajes:** PHP, JavaScript
+- **Frameworks:** Codeigniter Bootstrap
 - **Herramientas:** Git, Composer, npm, VSCode, Postman
 - **UI & extras:** SweetAlert2, Select2, jQuery
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
