@@ -1,6 +1,6 @@
 <!-- Banner oscuro -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e272e,100:485563&height=200&section=header&text=¡Hola,%20soy%20Abdul%20Desarrollador%20Web!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e272e,100:485563&height=200&section=header&text=¡Hola,%20Soy%20Abdul%20Desarrollador%20Web!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
 
 ---
