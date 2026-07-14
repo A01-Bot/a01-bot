@@ -2,44 +2,40 @@
 
 <div align="center">
 
-# A01-BOT
+# A01-Bot
 
-### Desarrollo de software, sistemas SaaS y soluciones web
+### Desarrollo web y soluciones digitales
 
-Construyo herramientas digitales claras, escalables y orientadas a resolver procesos reales.
+Creo proyectos web, herramientas internas y sitios orientados a necesidades reales de negocios.
 
 <p>
-  <img src="https://img.shields.io/badge/El%20Salvador-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="El Salvador" />
-  <img src="https://img.shields.io/badge/Enfoque-Full%20Stack-2563EB?style=flat-square&logo=code&logoColor=white" alt="Full Stack" />
-  <a href="mailto:habdulm10@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Correo electrónico" />
-  </a>
+  <img src="https://img.shields.io/badge/Ubicación-El%20Salvador-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="El Salvador" />
+  <img src="https://img.shields.io/badge/Enfoque-Desarrollo%20Web-2563EB?style=flat-square&logo=code&logoColor=white" alt="Desarrollo web" />
 </p>
 
 </div>
 
 ---
 
-## Perfil
+## Sobre mí
 
-Soy desarrollador de software enfocado en crear sistemas administrativos, plataformas SaaS y sitios web para negocios.
+Estoy fortaleciendo mis conocimientos en desarrollo web mediante proyectos prácticos, sistemas internos y sitios para negocios.
 
-Trabajo en soluciones que combinan interfaces claras, bases de datos bien estructuradas, autenticación, roles, automatización de procesos e integración de servicios. Mi objetivo es convertir necesidades reales en herramientas funcionales y fáciles de utilizar.
+Mi experiencia reciente se concentra en interfaces web, lógica con JavaScript, manejo de datos, automatización de procesos y desarrollo de sitios con Wix Studio.
 
 ## Tecnologías
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,html,css,tailwind,php,java,postgres,mysql,prisma,git,github,netlify,vercel,postman,vscode&perline=10"
+    src="https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres,git,github,vscode,netlify&perline=10"
     alt="Tecnologías principales"
   />
 </p>
 
 <div align="center">
 
-`Next.js` · `React` · `TypeScript` · `JavaScript` · `Node.js`  
-`PostgreSQL` · `Neon` · `Prisma` · `MySQL` · `PHP` · `Java`  
-`Git` · `GitHub` · `Netlify` · `Vercel` · `Wix Studio`
+`HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL`  
+`PostgreSQL` · `Git` · `GitHub` · `Netlify` · `Wix Studio` · `Velo`
 
 </div>
 
@@ -47,59 +43,85 @@ Trabajo en soluciones que combinan interfaces claras, bases de datos bien estruc
 
 ### Sistema de reservas hoteleras
 
-<img src="https://img.shields.io/badge/Estado-Funcional%20y%20en%20mejora-0F766E?style=flat-square" alt="Funcional y en mejora" />
+<img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
 
-Evolución del proyecto **App - Calendario** hacia un sistema interno para administrar reservaciones, habitaciones y ocupación hotelera.
+Proyecto que comenzó como **App - Calendario** y evolucionó a una herramienta interna para organizar reservaciones y habitaciones.
 
-- Vistas diaria, semanal y mensual.
-- Validación de disponibilidad y cruces de fechas.
-- Control de entradas, salidas y estados por habitación.
-- Gestión de usuarios y permisos.
-- Reportes en PDF y consultas mediante WhatsApp.
+Funciones desarrolladas:
 
-**Tecnologías:** `JavaScript` `HTML` `CSS` `PostgreSQL` `Netlify Functions`
+- Registro y actualización de reservaciones.
+- Control de habitaciones disponibles y ocupadas.
+- Validación de fechas para evitar cruces de reservas.
+- Vistas por día, semana y mes.
+- Gestión de estados de las habitaciones.
+- Usuarios con diferentes permisos.
+- Generación de reportes diarios en PDF.
+- Consultas y avisos mediante WhatsApp.
+
+**Tecnologías:** `HTML` `CSS` `JavaScript` `Netlify Functions` `PostgreSQL`
 
 ---
 
 ### Sitios web para hotelería
 
-Soluciones web orientadas a mejorar la presencia digital, la navegación y los procesos de consulta o reservación.
+Desarrollo y mejora de sitios web enfocados en hospedaje, restaurantes y servicios turísticos.
 
 #### Hotel Árbol de Fuego
 
-<img src="https://img.shields.io/badge/Estado-Proyecto%20publicado-15803D?style=flat-square" alt="Proyecto publicado" />
+<img src="https://img.shields.io/badge/Estado-Sitio%20publicado-15803D?style=flat-square" alt="Sitio publicado" />
 
-Rediseño de sitio web con una estructura más clara, experiencia responsiva, contenido optimizado y mejoras de SEO.
+Trabajo realizado en Wix para mejorar la estructura del sitio, la navegación, la adaptación a dispositivos móviles y el contenido orientado a SEO.
 
 #### Las Cabañas de Apaneca
 
 <img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
 
-Sitio web para hospedaje y restaurante con contenido administrable, catálogo de cabañas, flujos de consulta, integración con Wix Hotels y contacto por WhatsApp.
+Sitio web en Wix Studio para presentar cabañas, restaurante, experiencias y opciones de contacto.
+
+Funciones trabajadas:
+
+- Catálogo de cabañas administrado desde CMS.
+- Información detallada mediante ventanas emergentes.
+- Formularios de consulta rápida.
+- Integración con WhatsApp.
+- Conexión con Wix Hotels.
+- Diseño adaptable para computadora, tableta y teléfono.
 
 **Tecnologías:** `Wix Studio` `CMS` `Velo` `SEO` `UX/UI`
 
-## Laboratorio de Desarrollo Web
+---
 
-Nombre propuesto para reemplazar **Develoteca** y organizar en un solo concepto las prácticas realizadas con distintas tecnologías.
+### Laboratorio de Desarrollo Web
 
-- PHP y MySQL: autenticación, sesiones, cookies, CRUD, paginación, AJAX y carga de archivos.
-- JavaScript: formularios, listas, sliders, temporizadores y componentes interactivos.
+<img src="https://img.shields.io/badge/Tipo-Prácticas%20y%20aprendizaje-7C3AED?style=flat-square" alt="Prácticas y aprendizaje" />
+
+Nombre utilizado para organizar ejercicios que anteriormente estaban identificados como **Develoteca** y otras carpetas de prácticas.
+
+Contenido principal:
+
+- PHP y MySQL: formularios, sesiones, cookies, validaciones y conexión con bases de datos.
+- JavaScript: listas de tareas, sliders, formularios y componentes interactivos.
 - CSS: animaciones, efectos, botones, tarjetas, galerías y navegación.
-- Diseño web: landing pages, galerías y ejercicios de interfaz.
+- Diseño web: landing pages, galerías y prácticas de interfaz.
 
-Este repositorio funciona como una colección de ejercicios, componentes reutilizables y pruebas de aprendizaje.
+Este espacio reúne ejercicios de aprendizaje, pruebas y componentes reutilizables.
 
-## Enfoque actual
+## Actualmente
 
-Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, seguridad por roles, diseño de bases de datos, experiencia de usuario y creación de sistemas escalables.
+Actualmente continúo mejorando mis conocimientos en:
+
+- Desarrollo de sistemas web.
+- Organización y diseño de bases de datos.
+- Experiencia de usuario.
+- Diseño adaptable.
+- Seguridad y control de acceso.
+- Integración de servicios para negocios.
+
+> Algunos proyectos se encuentran en desarrollo y varios repositorios son privados.
 
 ## Contacto
 
 <p>
-  <a href="mailto:habdulm10@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-habdulm10%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" />
-  </a>
   <a href="https://github.com/A01-Bot">
     <img src="https://img.shields.io/badge/GitHub-A01--Bot-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
   </a>
@@ -108,5 +130,5 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, seguridad p
 ---
 
 <div align="center">
-  <sub>Desarrollando soluciones digitales para necesidades reales.</sub>
+  <sub>Aprendiendo, construyendo y mejorando con cada proyecto.</sub>
 </div>
