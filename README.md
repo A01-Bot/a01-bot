@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Abdul Montúfar
+# A01-BOT
 
 ### Desarrollo de software, sistemas SaaS y soluciones web
 
@@ -45,22 +45,6 @@ Trabajo en soluciones que combinan interfaces claras, bases de datos bien estruc
 
 ## Proyectos destacados
 
-### Sistema SaaS para gimnasios
-
-<img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
-
-Plataforma web multiempresa para administrar gimnasios desde una sola arquitectura, con acceso y funciones según el tipo de usuario.
-
-- Gestión de gimnasios, planes y suscripciones.
-- Roles para superadministrador, administrador, empleado y miembro.
-- Membresías, usuarios, productos e inventario.
-- Inicio de sesión, cambio de contraseña y permisos por rol.
-- Paneles administrativos adaptados a cada usuario.
-
-**Tecnologías:** `Next.js` `TypeScript` `PostgreSQL` `Neon` `Prisma`
-
----
-
 ### Sistema de reservas hoteleras
 
 <img src="https://img.shields.io/badge/Estado-Funcional%20y%20en%20mejora-0F766E?style=flat-square" alt="Funcional y en mejora" />
@@ -74,38 +58,6 @@ Evolución del proyecto **App - Calendario** hacia un sistema interno para admin
 - Reportes en PDF y consultas mediante WhatsApp.
 
 **Tecnologías:** `JavaScript` `HTML` `CSS` `PostgreSQL` `Netlify Functions`
-
----
-
-### Plataforma de historias interactivas
-
-<img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
-
-Aplicación web donde las decisiones del jugador modifican el desarrollo de cada historia y permiten descubrir rutas diferentes.
-
-- Historias con decisiones y finales múltiples.
-- Progreso individual por jugador.
-- Sistema de puntos, logros y recompensas.
-- Panel administrativo para gestionar historias y opciones.
-- Autenticación, roles y recuperación de credenciales.
-
-**Tecnologías:** `Next.js` `TypeScript` `PostgreSQL` `Neon` `Prisma`
-
----
-
-### ERP para ferreterías
-
-<img src="https://img.shields.io/badge/Estado-Desarrollo%20inicial-7C3AED?style=flat-square" alt="Desarrollo inicial" />
-
-Sistema empresarial diseñado para operar con múltiples empresas y sucursales mediante una arquitectura modular y escalable.
-
-- Usuarios, roles y permisos.
-- Productos, categorías, marcas y proveedores.
-- Inventario, compras, ventas y caja.
-- Reportes, auditoría, respaldos y licencias.
-- Arquitectura con cliente de escritorio, API y launcher de actualizaciones.
-
-**Tecnologías previstas:** `Java` `Swing` `Spring Boot` `PostgreSQL` `Redis`
 
 ---
 
@@ -140,7 +92,7 @@ Este repositorio funciona como una colección de ejercicios, componentes reutili
 
 ## Enfoque actual
 
-Actualmente estoy fortaleciendo mis conocimientos en arquitectura SaaS, seguridad por roles, diseño de bases de datos, experiencia de usuario y desarrollo de sistemas escalables.
+Actualmente estoy fortaleciendo mis conocimientos en desarrollo web, seguridad por roles, diseño de bases de datos, experiencia de usuario y creación de sistemas escalables.
 
 ## Contacto
 
