@@ -62,6 +62,27 @@ Funciones desarrolladas:
 
 ---
 
+
+### Sistema de Registro de Huéspedes por Pasaporte
+
+<img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
+
+Aplicación de escritorio local creada para facilitar el registro y seguimiento de huéspedes de **Hotel Árbol de Fuego** mediante su pasaporte o documento de identidad.
+
+Funciones desarrolladas:
+
+- Registro de datos personales y número de pasaporte.
+- Validación para evitar huéspedes duplicados.
+- Búsqueda y consulta de registros existentes.
+- Historial independiente de entradas y salidas.
+- Registro de habitación, fechas y observaciones.
+- Consulta del total de visitas y la estadía más reciente.
+- Almacenamiento local de la información sin depender de internet.
+
+**Tecnologías:** `Electron` `JavaScript` `SQLite` `better-sqlite3`
+
+---
+
 ### Sitios web para hotelería
 
 Desarrollo y mejora de sitios web enfocados en hospedaje, restaurantes y servicios turísticos.
