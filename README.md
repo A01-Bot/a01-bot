@@ -43,7 +43,7 @@ Mi experiencia reciente se concentra en interfaces web, lógica con JavaScript, 
 
 ### Sistema de reservas hoteleras
 
-<img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
+<img src="https://img.shields.io/badge/Estado-Finalizado-7D0606?style=flat-square" alt="Finalizado" />
 
 Proyecto que comenzó como **App - Calendario** y evolucionó a una herramienta interna para organizar reservaciones y habitaciones.
 
@@ -65,7 +65,7 @@ Funciones desarrolladas:
 
 ### Sistema de Registro de Huéspedes por Pasaporte
 
-<img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
+<img src="https://img.shields.io/badge/Estado-Finalizado-7D0606?style=flat-square" alt="Finalizado" />
 
 Aplicación de escritorio local creada para facilitar el registro y seguimiento de huéspedes de **Hotel Árbol de Fuego** mediante su pasaporte o documento de identidad.
 
