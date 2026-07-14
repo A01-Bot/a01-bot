@@ -1,226 +1,160 @@
-<!-- Encabezado -->
+<!-- README de perfil de GitHub -->
+
+<div align="center">
+
+# Abdul Montúfar
+
+### Desarrollo de software, sistemas SaaS y soluciones web
+
+Construyo herramientas digitales claras, escalables y orientadas a resolver procesos reales.
+
+<p>
+  <img src="https://img.shields.io/badge/El%20Salvador-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="El Salvador" />
+  <img src="https://img.shields.io/badge/Enfoque-Full%20Stack-2563EB?style=flat-square&logo=code&logoColor=white" alt="Full Stack" />
+  <a href="mailto:habdulm10@gmail.com">
+    <img src="https://img.shields.io/badge/Contacto-Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Correo electrónico" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## Perfil
+
+Soy desarrollador de software enfocado en crear sistemas administrativos, plataformas SaaS y sitios web para negocios.
+
+Trabajo en soluciones que combinan interfaces claras, bases de datos bien estructuradas, autenticación, roles, automatización de procesos e integración de servicios. Mi objetivo es convertir necesidades reales en herramientas funcionales y fáciles de utilizar.
+
+## Tecnologías
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=190&section=header&text=Hola,%20soy%20Abdul&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web&descAlignY=60&descSize=18"
-    alt="Banner de presentación"
+    src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,html,css,tailwind,php,java,postgres,mysql,prisma,git,github,netlify,vercel,postman,vscode&perline=10"
+    alt="Tecnologías principales"
   />
 </p>
 
-<p align="center">
-  Desarrollo aplicaciones web, sistemas administrativos y herramientas orientadas a resolver necesidades reales.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/A01-Bot">
-    <img src="https://img.shields.io/badge/GitHub-A01--Bot-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:habdulm10@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo">
-  </a>
-</p>
+`Next.js` · `React` · `TypeScript` · `JavaScript` · `Node.js`  
+`PostgreSQL` · `Neon` · `Prisma` · `MySQL` · `PHP` · `Java`  
+`Git` · `GitHub` · `Netlify` · `Vercel` · `Wix Studio`
 
----
-
-## Sobre mí
-
-Soy un desarrollador web autodidacta enfocado en crear soluciones funcionales, organizadas y fáciles de utilizar.
-
-Me interesa desarrollar sistemas administrativos, sitios web dinámicos y herramientas que ayuden a mejorar procesos reales.
-
-También mantengo repositorios de prácticas donde experimento con componentes, animaciones, formularios, bases de datos y nuevas tecnologías.
-
----
+</div>
 
 ## Proyectos destacados
 
-### Sistema de reservas
+### Sistema SaaS para gimnasios
 
-Aplicación que inició como un calendario y evolucionó hasta convertirse en un pequeño sistema de reservas escalable.
+<img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
 
-Permite administrar habitaciones, huéspedes, fechas de entrada y salida, tarifas, estados de reserva y personal responsable.
+Plataforma web multiempresa para administrar gimnasios desde una sola arquitectura, con acceso y funciones según el tipo de usuario.
 
-**Características principales:**
+- Gestión de gimnasios, planes y suscripciones.
+- Roles para superadministrador, administrador, empleado y miembro.
+- Membresías, usuarios, productos e inventario.
+- Inicio de sesión, cambio de contraseña y permisos por rol.
+- Paneles administrativos adaptados a cada usuario.
 
-- Registro y administración de reservas.
-- Gestión de habitaciones.
-- Control de entradas y salidas.
-- Estados de reserva y disponibilidad.
-- Validación de fechas y reservas duplicadas.
-- Registro de huéspedes y datos de contacto.
-- Tarifas y tipos de habitación.
-- Vista diaria, semanal y mensual.
-- Generación de reportes.
-- Diseño adaptable para futuras funciones.
+**Tecnologías:** `Next.js` `TypeScript` `PostgreSQL` `Neon` `Prisma`
+
+---
+
+### Sistema de reservas hoteleras
+
+<img src="https://img.shields.io/badge/Estado-Funcional%20y%20en%20mejora-0F766E?style=flat-square" alt="Funcional y en mejora" />
+
+Evolución del proyecto **App - Calendario** hacia un sistema interno para administrar reservaciones, habitaciones y ocupación hotelera.
+
+- Vistas diaria, semanal y mensual.
+- Validación de disponibilidad y cruces de fechas.
+- Control de entradas, salidas y estados por habitación.
+- Gestión de usuarios y permisos.
+- Reportes en PDF y consultas mediante WhatsApp.
 
 **Tecnologías:** `JavaScript` `HTML` `CSS` `PostgreSQL` `Netlify Functions`
 
 ---
 
-### Sistema de bibliotecas
+### Plataforma de historias interactivas
 
-Aplicación para administrar libros, usuarios, préstamos y devoluciones.
+<img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
 
-**Características principales:**
+Aplicación web donde las decisiones del jugador modifican el desarrollo de cada historia y permiten descubrir rutas diferentes.
 
-- Gestión de libros.
-- Administración de usuarios.
-- Registro de préstamos y devoluciones.
-- Operaciones CRUD.
-- Generación de reportes.
-- Validaciones y alertas interactivas.
+- Historias con decisiones y finales múltiples.
+- Progreso individual por jugador.
+- Sistema de puntos, logros y recompensas.
+- Panel administrativo para gestionar historias y opciones.
+- Autenticación, roles y recuperación de credenciales.
 
-**Tecnologías:** `PHP` `MySQL` `JavaScript` `SweetAlert2`
-
----
-
-### Blog personal
-
-Plataforma para administrar y publicar contenido desde un panel privado.
-
-**Características principales:**
-
-- Inicio de sesión.
-- Panel administrativo.
-- Creación y edición de publicaciones.
-- Categorías.
-- Buscador.
-- Sistema de comentarios.
-- Diseño adaptable.
-
-**Tecnologías:** `PHP` `MySQL` `Bootstrap` `JavaScript`
+**Tecnologías:** `Next.js` `TypeScript` `PostgreSQL` `Neon` `Prisma`
 
 ---
 
-### Portafolio autogestionable
+### ERP para ferreterías
 
-Sitio web personal que permite administrar proyectos desde un panel privado.
+<img src="https://img.shields.io/badge/Estado-Desarrollo%20inicial-7C3AED?style=flat-square" alt="Desarrollo inicial" />
 
-**Características principales:**
+Sistema empresarial diseñado para operar con múltiples empresas y sucursales mediante una arquitectura modular y escalable.
 
-- Registro y edición de proyectos.
-- Carga de imágenes.
-- Administración de contenido.
-- Control de visibilidad.
-- Panel privado.
-- Información almacenada en base de datos.
+- Usuarios, roles y permisos.
+- Productos, categorías, marcas y proveedores.
+- Inventario, compras, ventas y caja.
+- Reportes, auditoría, respaldos y licencias.
+- Arquitectura con cliente de escritorio, API y launcher de actualizaciones.
 
-**Tecnologías:** `PHP` `MySQL` `Bootstrap` `JavaScript`
-
----
-
-## Repositorios de práctica
-
-Además de mis proyectos principales, desarrollo ejercicios y pequeños componentes para mejorar mis habilidades.
-
-### Diseño y CSS
-
-- Tarjetas con efectos 3D.
-- Galerías responsivas.
-- Galerías con filtros.
-- Animaciones de fondo.
-- Botones animados.
-- Barras de navegación.
-- Formularios con efecto glassmorphism.
-- Indicadores de desplazamiento.
-- Landing pages.
-- Efectos hover.
-- Cursores personalizados.
-
-### JavaScript
-
-- Validación de formularios.
-- Lista de tareas.
-- Sliders.
-- Conversores de unidades.
-- Temporizadores.
-- Juegos de adivinanzas.
-- Galerías interactivas.
-
-### PHP y MySQL
-
-- Inicio de sesión y registro.
-- Manejo de sesiones.
-- Manejo de cookies.
-- Blogs dinámicos.
-- Paginación con PHP y SQL.
-- Operaciones con MySQL.
-- Subida de archivos.
-- Importación de archivos.
-- Tablas dinámicas con AJAX.
-- Validación de formularios.
-- Galerías conectadas a bases de datos.
+**Tecnologías previstas:** `Java` `Swing` `Spring Boot` `PostgreSQL` `Redis`
 
 ---
 
-## Tecnologías
+### Sitios web para hotelería
 
-### Lenguajes
+Soluciones web orientadas a mejorar la presencia digital, la navegación y los procesos de consulta o reservación.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-20232A?style=flat-square&logo=php" alt="PHP">
-  <img src="https://img.shields.io/badge/SQL-20232A?style=flat-square&logo=mysql" alt="SQL">
-</p>
+#### Hotel Árbol de Fuego
 
-### Frameworks y librerías
+<img src="https://img.shields.io/badge/Estado-Proyecto%20publicado-15803D?style=flat-square" alt="Proyecto publicado" />
 
-<p>
-  <img src="https://img.shields.io/badge/Bootstrap-20232A?style=flat-square&logo=bootstrap" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/CodeIgniter-20232A?style=flat-square&logo=codeigniter" alt="CodeIgniter">
-  <img src="https://img.shields.io/badge/jQuery-20232A?style=flat-square&logo=jquery" alt="jQuery">
-  <img src="https://img.shields.io/badge/SweetAlert2-20232A?style=flat-square" alt="SweetAlert2">
-</p>
+Rediseño de sitio web con una estructura más clara, experiencia responsiva, contenido optimizado y mejoras de SEO.
 
-### Bases de datos y herramientas
+#### Las Cabañas de Apaneca
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-20232A?style=flat-square&logo=visualstudiocode" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Postman-20232A?style=flat-square&logo=postman" alt="Postman">
-  <img src="https://img.shields.io/badge/Composer-20232A?style=flat-square&logo=composer" alt="Composer">
-  <img src="https://img.shields.io/badge/npm-20232A?style=flat-square&logo=npm" alt="npm">
-</p>
+<img src="https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square" alt="En desarrollo" />
 
----
+Sitio web para hospedaje y restaurante con contenido administrable, catálogo de cabañas, flujos de consulta, integración con Wix Hotels y contacto por WhatsApp.
 
-## Actualmente aprendiendo
+**Tecnologías:** `Wix Studio` `CMS` `Velo` `SEO` `UX/UI`
 
-- Desarrollo de aplicaciones web completas.
-- Arquitectura y organización de proyectos.
-- Diseño responsive.
-- Creación y consumo de API.
-- Seguridad y autenticación.
-- Optimización de bases de datos.
-- Buenas prácticas con Git y GitHub.
-- Desarrollo de sistemas escalables.
+## Laboratorio de Desarrollo Web
 
----
+Nombre propuesto para reemplazar **Develoteca** y organizar en un solo concepto las prácticas realizadas con distintas tecnologías.
+
+- PHP y MySQL: autenticación, sesiones, cookies, CRUD, paginación, AJAX y carga de archivos.
+- JavaScript: formularios, listas, sliders, temporizadores y componentes interactivos.
+- CSS: animaciones, efectos, botones, tarjetas, galerías y navegación.
+- Diseño web: landing pages, galerías y ejercicios de interfaz.
+
+Este repositorio funciona como una colección de ejercicios, componentes reutilizables y pruebas de aprendizaje.
+
+## Enfoque actual
+
+Actualmente estoy fortaleciendo mis conocimientos en arquitectura SaaS, seguridad por roles, diseño de bases de datos, experiencia de usuario y desarrollo de sistemas escalables.
 
 ## Contacto
 
-<p align="center">
-  <a href="https://github.com/A01-Bot">GitHub</a>
-  ·
-  <a href="mailto:habdulm10@gmail.com">Correo electrónico</a>
-  ·
-  <a href="https://linkedin.com/in/tuusuario">LinkedIn</a>
-  ·
-  <a href="https://tusitio.com">Portafolio</a>
+<p>
+  <a href="mailto:habdulm10@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-habdulm10%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" />
+  </a>
+  <a href="https://github.com/A01-Bot">
+    <img src="https://img.shields.io/badge/GitHub-A01--Bot-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
+  </a>
 </p>
 
-<p align="center">
-  <strong>Disponible para colaborar en proyectos web y continuar desarrollando nuevas soluciones.</strong>
-</p>
+---
 
-<!-- Pie de página -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=100&section=footer"
-    alt="Pie de página"
-  />
-</p>
+<div align="center">
+  <sub>Desarrollando soluciones digitales para necesidades reales.</sub>
+</div>
