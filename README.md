@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Desarrollo aplicaciones web, herramientas administrativas y proyectos orientados a resolver necesidades reales.
+  Desarrollo aplicaciones web, sistemas administrativos y herramientas orientadas a resolver necesidades reales.
 </p>
 
 <p align="center">
@@ -15,31 +15,55 @@
     <img src="https://img.shields.io/badge/GitHub-A01--Bot-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
   <a href="mailto:habdulm10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo electrónico">
+    <img src="https://img.shields.io/badge/Correo-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-Soy un desarrollador web autodidacta enfocado en crear soluciones funcionales, claras y fáciles de utilizar.
+Soy un desarrollador web autodidacta enfocado en crear soluciones funcionales, organizadas y fáciles de utilizar.
 
-Me interesa desarrollar sistemas administrativos, sitios web dinámicos y herramientas que ayuden a organizar procesos. También mantengo repositorios de prácticas donde experimento con componentes, animaciones y nuevas tecnologías.
+Me interesa desarrollar sistemas administrativos, sitios web dinámicos y herramientas que ayuden a mejorar procesos reales.
 
-Actualmente continúo fortaleciendo mis conocimientos en desarrollo frontend, backend y bases de datos.
+También mantengo repositorios de prácticas donde experimento con componentes, animaciones, formularios, bases de datos y nuevas tecnologías.
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 📚 Sistema de bibliotecas
+### Sistema de reservas
+
+Aplicación que inició como un calendario y evolucionó hasta convertirse en un pequeño sistema de reservas escalable.
+
+Permite administrar habitaciones, huéspedes, fechas de entrada y salida, tarifas, estados de reserva y personal responsable.
+
+**Características principales:**
+
+- Registro y administración de reservas.
+- Gestión de habitaciones.
+- Control de entradas y salidas.
+- Estados de reserva y disponibilidad.
+- Validación de fechas y reservas duplicadas.
+- Registro de huéspedes y datos de contacto.
+- Tarifas y tipos de habitación.
+- Vista diaria, semanal y mensual.
+- Generación de reportes.
+- Diseño adaptable para futuras funciones.
+
+**Tecnologías:** `JavaScript` `HTML` `CSS` `PostgreSQL` `Netlify Functions`
+
+---
+
+### Sistema de bibliotecas
 
 Aplicación para administrar libros, usuarios, préstamos y devoluciones.
 
 **Características principales:**
 
-- Gestión de libros y usuarios.
+- Gestión de libros.
+- Administración de usuarios.
 - Registro de préstamos y devoluciones.
 - Operaciones CRUD.
 - Generación de reportes.
@@ -49,15 +73,17 @@ Aplicación para administrar libros, usuarios, préstamos y devoluciones.
 
 ---
 
-### 📝 Blog personal
+### Blog personal
 
-Plataforma de publicaciones con herramientas de administración y organización de contenido.
+Plataforma para administrar y publicar contenido desde un panel privado.
 
 **Características principales:**
 
-- Inicio de sesión y panel administrativo.
+- Inicio de sesión.
+- Panel administrativo.
 - Creación y edición de publicaciones.
-- Categorías y buscador.
+- Categorías.
+- Buscador.
 - Sistema de comentarios.
 - Diseño adaptable.
 
@@ -65,61 +91,33 @@ Plataforma de publicaciones con herramientas de administración y organización 
 
 ---
 
-### 💼 Portafolio autogestionable
+### Portafolio autogestionable
 
 Sitio web personal que permite administrar proyectos desde un panel privado.
 
 **Características principales:**
 
 - Registro y edición de proyectos.
-- Carga y administración de imágenes.
+- Carga de imágenes.
+- Administración de contenido.
 - Control de visibilidad.
-- Panel de administración.
-- Contenido almacenado en base de datos.
+- Panel privado.
+- Información almacenada en base de datos.
 
 **Tecnologías:** `PHP` `MySQL` `Bootstrap` `JavaScript`
 
 ---
 
-### 🍰 Sitio web de repostería
+## Repositorios de práctica
 
-Sitio web desarrollado para mostrar productos, recetas y servicios de repostería.
+Además de mis proyectos principales, desarrollo ejercicios y pequeños componentes para mejorar mis habilidades.
 
-**Características principales:**
-
-- Catálogo de productos.
-- Galería de imágenes.
-- Menú dinámico.
-- Formulario de contacto.
-- Diseño responsive.
-
-**Tecnologías:** `HTML` `CSS` `JavaScript` `Bootstrap`
-
----
-
-### 📅 Aplicación de calendario
-
-Proyecto desarrollado para organizar y visualizar información mediante un calendario digital.
-
-Forma parte de mi repositorio de proyectos orientados al entorno laboral y a la creación de herramientas administrativas.
-
----
-
-### 📋 Proyecto de bitácora
-
-Aplicación orientada al registro, organización y consulta de actividades o acontecimientos importantes.
-
----
-
-## 🧪 Repositorios de práctica
-
-Además de mis proyectos principales, cuento con ejercicios y pequeños proyectos para mejorar mis habilidades.
-
-### 🎨 Diseño y CSS
+### Diseño y CSS
 
 - Tarjetas con efectos 3D.
-- Galerías y galerías con filtros.
-- Animaciones de fondos.
+- Galerías responsivas.
+- Galerías con filtros.
+- Animaciones de fondo.
 - Botones animados.
 - Barras de navegación.
 - Formularios con efecto glassmorphism.
@@ -128,7 +126,7 @@ Además de mis proyectos principales, cuento con ejercicios y pequeños proyecto
 - Efectos hover.
 - Cursores personalizados.
 
-### ⚡ JavaScript
+### JavaScript
 
 - Validación de formularios.
 - Lista de tareas.
@@ -138,21 +136,23 @@ Además de mis proyectos principales, cuento con ejercicios y pequeños proyecto
 - Juegos de adivinanzas.
 - Galerías interactivas.
 
-### 🐘 PHP y MySQL
+### PHP y MySQL
 
 - Inicio de sesión y registro.
-- Manejo de sesiones y cookies.
+- Manejo de sesiones.
+- Manejo de cookies.
 - Blogs dinámicos.
 - Paginación con PHP y SQL.
 - Operaciones con MySQL.
-- Subida e importación de archivos.
+- Subida de archivos.
+- Importación de archivos.
 - Tablas dinámicas con AJAX.
 - Validación de formularios.
-- Galerías conectadas a base de datos.
+- Galerías conectadas a bases de datos.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Lenguajes
 
@@ -177,6 +177,7 @@ Además de mis proyectos principales, cuento con ejercicios y pequeños proyecto
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-20232A?style=flat-square&logo=visualstudiocode" alt="Visual Studio Code">
@@ -187,19 +188,20 @@ Además de mis proyectos principales, cuento con ejercicios y pequeños proyecto
 
 ---
 
-## 🎯 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - Desarrollo de aplicaciones web completas.
 - Arquitectura y organización de proyectos.
 - Diseño responsive.
-- Consumo y creación de API.
+- Creación y consumo de API.
 - Seguridad y autenticación.
 - Optimización de bases de datos.
 - Buenas prácticas con Git y GitHub.
+- Desarrollo de sistemas escalables.
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://github.com/A01-Bot">GitHub</a>
@@ -212,7 +214,7 @@ Además de mis proyectos principales, cuento con ejercicios y pequeños proyecto
 </p>
 
 <p align="center">
-  <strong>Disponible para colaborar en proyectos web y continuar aprendiendo nuevas tecnologías.</strong>
+  <strong>Disponible para colaborar en proyectos web y continuar desarrollando nuevas soluciones.</strong>
 </p>
 
 <!-- Pie de página -->
